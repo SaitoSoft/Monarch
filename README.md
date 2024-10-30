@@ -16,7 +16,11 @@ Edit and update a record (updating the Modified date to today).
 
 Getting Started
 
-Extract the .bak file and restore the database, build the code solution and set the startup projects to be MVC and the Api (if needed).
+Extract the .bak file and restore the database.
+
+Change the server name in the appsettings.json (Api project) as required.
+
+In the code solution and set the startup projects to be MVC and the Api (if needed).
 
 Additional
 
