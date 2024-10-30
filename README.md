@@ -16,4 +16,5 @@ Additional
 
 I have only provided controller level tests usually I would do service and integration. However, for the sake of time I have omitted these (I have asserted that the services were called).
 I have used a Clean Architecture approach as that is what I have been using in my last positions. Since on the first call it was mantioned that Dapper is used I have uswed that instead of EF.
+
 Thanks for the opportunity and I will hopefully see you Friday.
