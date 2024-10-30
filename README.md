@@ -1,1 +1,19 @@
 # Monarch
+
+Monarch Tech Test
+This is an interview technical test solution for Monarch Software
+Description
+The program will display a grid of records (from the supplied database) which enable the user to do the following:
+•	Move through the records
+•	Search the records (for a given SKU/Title/Artist parameter)
+•	Edit and update a record (updating the Modified date to today)
+
+Getting Started
+Installing
+•	Extract the .bak file and restore the database
+•	Re-build the code solution
+•	Set the startup projects to be MVC and the Api (if needed)
+Additional
+I have only provided controller level tests usually I would do service and integration. However, for the sake of time I have omitted these.
+I have used a Clean Architecture approach as that is what I have been using in my last positions.
+Thanks for the opportunity and I will hopefully see you Friday.
