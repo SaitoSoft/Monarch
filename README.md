@@ -6,7 +6,13 @@ This is an interview technical test solution for Monarch Software
 
 Description
 
-The program will display a grid of records (from the supplied database) which enable the user to move through the records, search the records (for a given SKU/Title/Artist parameter) and edit and update a record (updating the Modified date to today).
+The program will display a grid of records (from the supplied database) which enable the user to:
+
+Move through the records.
+
+Search the records (for a given SKU/Title/Artist parameter).
+
+Edit and update a record (updating the Modified date to today).
 
 Getting Started
 
